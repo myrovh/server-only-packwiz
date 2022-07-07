@@ -6,13 +6,48 @@ hash = "2e8a4921803a54bb9161d1120a5563efa746d3b11b180ff4a6a92e88837c574c"
 metafile = true
 
 [[files]]
+file = "mods/collective-fabric.pw.toml"
+hash = "7c259f6e2a2d26db5827915ac37dbd45cdcbbda31da19fbfa2bb35e1cf4a1f37"
+metafile = true
+
+[[files]]
+file = "mods/easy-elytra-takeoff-fabric.pw.toml"
+hash = "3f76f4b8281f827055cb9a596dcc439d287d2a3b6cb2dcd92d0ec4eb1422e2a0"
+metafile = true
+
+[[files]]
+file = "mods/edit-sign.pw.toml"
+hash = "28260bf593ae9a685769d4691972105c0d14066aa61e0f10a4994b1eb47d2988"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "e5e9cc3b753510f4243bc0fdef37595dffb283a38f9aa368bbba452aa53b811f"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "a03e508db721432f32bbc99640ed893fdf74cc894a3c2c3f6019e2f233c8623f"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "cbedab2ca0ec5c65cbcb2e1c51c8cc638109b60d3774c3232534ccadda9b9335"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "35dfd476a644abffce8b0d1c0cd383a47fc4511bd4c709dbc46edfb74c19c606"
+metafile = true
+
+[[files]]
+file = "mods/random-bone-meal-flowers-fabric.pw.toml"
+hash = "7c6c967656cb9917ebf3c7b774dfd8ed3702d90e041d176b1e15b90501cf2cf0"
+metafile = true
+
+[[files]]
+file = "mods/scaffolding-drops-nearby-fabric.pw.toml"
+hash = "5da820cfeadf668348f0031f41b5da3514087dcabff15bbbbbe2733488a6d8c3"
 metafile = true
 
 [[files]]
@@ -23,4 +58,19 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "e22e7607bd653db65fd4c7f3d03d06aa8f17c670e636a027bf75ab6f6cee91cb"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "04119a476bbae1307d74e02b38e7d381f0224474714c1e951ed851fe20caca58"
+metafile = true
+
+[[files]]
+file = "mods/villager-names-fabric-version.pw.toml"
+hash = "a07ba5f345feb3501f1fbaf48627696999afb877749ef003f4a147e01bf6dd54"
+metafile = true
+
+[[files]]
+file = "mods/wool-tweaks-fabric.pw.toml"
+hash = "7929724e3a450f31184eef2a16e0e3102675da3d1ae0eacac50120a38467e015"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Wool Tweaks (Fabric)"
+filename = "wooltweaks-fabric_1.19.x-1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "453ab4e748122bfcc0b45e6d2a54e8f62c5b5d96"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3821438
+project-id = 527586
