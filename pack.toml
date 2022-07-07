@@ -1,0 +1,13 @@
+name = "Myrovh's Server Only Pack"
+author = "myrovh"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7a2c421233f64c66b0cf374e5580a260c4b294f9606c3f2d57570c3f75371aef"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.19"

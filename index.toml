@@ -1,0 +1,21 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "a03e508db721432f32bbc99640ed893fdf74cc894a3c2c3f6019e2f233c8623f"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "35dfd476a644abffce8b0d1c0cd383a47fc4511bd4c709dbc46edfb74c19c606"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "db0a65d4138a628f6efac41bd6a2b3684b787e283e952a8554db25a831e139ea"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "e22e7607bd653db65fd4c7f3d03d06aa8f17c670e636a027bf75ab6f6cee91cb"
+metafile = true
