@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "2e8a4921803a54bb9161d1120a5563efa746d3b11b180ff4a6a92e88837c574c"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "a03e508db721432f32bbc99640ed893fdf74cc894a3c2c3f6019e2f233c8623f"
 metafile = true
