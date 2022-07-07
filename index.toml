@@ -6,8 +6,23 @@ hash = "2e8a4921803a54bb9161d1120a5563efa746d3b11b180ff4a6a92e88837c574c"
 metafile = true
 
 [[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "3a2f4ab242986f00e939b5aa1479740e2fbc2c8763fd8575e5372b61538ec67a"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "cf897a14537e23af6a7dab198d40a14a53580d3c072d15ebb60008efd5db5350"
+metafile = true
+
+[[files]]
 file = "mods/collective-fabric.pw.toml"
 hash = "7c259f6e2a2d26db5827915ac37dbd45cdcbbda31da19fbfa2bb35e1cf4a1f37"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks-fabric.pw.toml"
+hash = "e828115704d9219b5720003716841994fdc99498d6a2da239eb687cd3cacc0b7"
 metafile = true
 
 [[files]]
@@ -28,6 +43,16 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "a03e508db721432f32bbc99640ed893fdf74cc894a3c2c3f6019e2f233c8623f"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "bafd50c7e62f9cd7aecb913737b7a4af38c6e86ad565e6ee1e8be9c887e606a7"
+metafile = true
+
+[[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "4bd38a39bbfedacab77e1e74315e1d897292bd330d7133b23bc5ae6149deff6d"
 metafile = true
 
 [[files]]
