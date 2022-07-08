@@ -61,14 +61,6 @@ file = "config/leaves_us_in_peace.json"
 hash = "53939ff218bd4ca3a4d3d0b666d465d7eee35484a6aa98d1adfe4aa9555637ee"
 
 [[files]]
-file = "config/lithium.properties"
-hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
-
-[[files]]
-file = "config/pal.properties"
-hash = "5e4196cf01469476d0e5a776f3800d41975e0834379403ea57a66aea51b0a972"
-
-[[files]]
 file = "config/polydex.json"
 hash = "b40abf12b92a71c8ac637b2ef83a2579c1c9449d76cf8a613c0cf6289300eb76"
 
