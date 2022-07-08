@@ -1,12 +1,12 @@
 name = "Myrovh's Server Only Pack"
 author = "myrovh"
-version = "1.1.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8b16f308d125511b535ac3d3acf04feb286fea25c887d5dae1ff2b20343186fd"
+hash = "6c980d300df5f4a31224c520342cfaa7b3dbbc31b9b47e11e93dc9d0893423cf"
 
 [versions]
 fabric = "0.14.8"

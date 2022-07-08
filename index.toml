@@ -151,6 +151,11 @@ hash = "f130a8a58184826e701d8e66d035dd47211f8b273e376b968333bf5afe405ab9"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "800dbeeb7a5e8a92cc64118b9c75c33ed9f426d9b83a0e378f564650633f2509"
+metafile = true
+
+[[files]]
 file = "mods/scaffolding-drops-nearby-fabric.pw.toml"
 hash = "5da820cfeadf668348f0031f41b5da3514087dcabff15bbbbbe2733488a6d8c3"
 metafile = true
