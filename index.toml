@@ -1,6 +1,102 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/EssentialCommands.properties"
+hash = "58c2084044402c070f56086525f957ebb3391c9a74d344c2f459f10d14a89113"
+
+[[files]]
+file = "config/bluemap/core.conf"
+hash = "e428eff8ee92891854a475ddf02321517bbe860452f20a33a2e93396cdbe29e7"
+
+[[files]]
+file = "config/bluemap/plugin.conf"
+hash = "5dc765ca35eae362d3f23ce40847a358b7d6ddd9215af856aa54f873aeb9253b"
+
+[[files]]
+file = "config/bluemap/render.conf"
+hash = "06c96b7b3093b1c4fcfa3d1f854ffa485120965bae840f4daef835fca2c68a4b"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "79c4415dbd41bffbc10e34bfa1c804e882df45c61d60fd53577566ab21794061"
+
+[[files]]
+file = "config/carpet/default_carpet-fixes.conf"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/carpet/default_carpet.conf"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/chunky.json"
+hash = "96a0daada3aca0305085b8f73e1af045d24804fb05b70618036604337e489942"
+
+[[files]]
+file = "config/collective-fabric.json"
+hash = "a96dc1d34609e0ed2d4bd3c3cab74944040d52000d9dffe3047865e14f2bb14b"
+
+[[files]]
+file = "config/craftingtweaks.toml"
+hash = "8830d327f96393c7952f119a69679025a5f1f21cffa278356503021d55d861b2"
+
+[[files]]
+file = "config/editsign.json"
+hash = "cdaa38de39f50b1bcdb2e0c5541cf110779122c2a25127c551a85cea8244353b"
+
+[[files]]
+file = "config/fallingtree.json"
+hash = "60d48ca5e236fcd11583f24fe01112573bb26ca663b319d21b7beb2a265c66f6"
+
+[[files]]
+file = "config/grindenchantments.json"
+hash = "49e9c680403aba2062bed1d1b34db5cfe92518970058169b828d1f664969df15"
+
+[[files]]
+file = "config/inventorysorter/blacklist.json5"
+hash = "9f36f88fdb87b6320507f049e9eff15a6622655666bac5122c1c9f694dd2e3d7"
+
+[[files]]
+file = "config/leaves_us_in_peace.json"
+hash = "53939ff218bd4ca3a4d3d0b666d465d7eee35484a6aa98d1adfe4aa9555637ee"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/pal.properties"
+hash = "5e4196cf01469476d0e5a776f3800d41975e0834379403ea57a66aea51b0a972"
+
+[[files]]
+file = "config/polydex.json"
+hash = "b40abf12b92a71c8ac637b2ef83a2579c1c9449d76cf8a613c0cf6289300eb76"
+
+[[files]]
+file = "config/polymer/server.json"
+hash = "b2626d2957638cc07bb3086e5f6e7ec2d3310a925fbd3adb2ff60baae01ce97f"
+
+[[files]]
+file = "config/randombonemealflowers/blacklist.txt"
+hash = "928d832230f11fc33e6587e6bbc775b3982443d800900739f7c85a9c864d73ae"
+
+[[files]]
+file = "config/simplerharvest.json"
+hash = "3e8e57664e564edbbdc290dd61c32d4d44396cf5f9eafecfdc2a26dc1f7c89f8"
+
+[[files]]
+file = "config/universal-graves.json"
+hash = "3e85f5569a29f54882240d5d9b158d95d3d0a00623d9e61a9236d76d06c80751"
+
+[[files]]
+file = "config/villagernames-fabric.json"
+hash = "3177d2e745007800c60ee0629dd024cd10ee8803c35222edcde743ede9afac20"
+
+[[files]]
+file = "config/villagernames/customnames.txt"
+hash = "fb466df546980302c12aae76865834d8cf44a3b439514af25950b72ae94bd043"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
@@ -128,6 +224,11 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "35dfd476a644abffce8b0d1c0cd383a47fc4511bd4c709dbc46edfb74c19c606"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.pw.toml"
+hash = "103f9e1bc20ebbef5a496b73572aaa9a24066831fc61fe3a28eedea3602153f9"
 metafile = true
 
 [[files]]
