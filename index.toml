@@ -11,6 +11,11 @@ hash = "3a2f4ab242986f00e939b5aa1479740e2fbc2c8763fd8575e5372b61538ec67a"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "8710ff01be8545dc45b73520dd6c2ab771237be3be45ae36aa91a68a5b487524"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "cf897a14537e23af6a7dab198d40a14a53580d3c072d15ebb60008efd5db5350"
 metafile = true
@@ -26,6 +31,11 @@ hash = "e828115704d9219b5720003716841994fdc99498d6a2da239eb687cd3cacc0b7"
 metafile = true
 
 [[files]]
+file = "mods/crowmap.pw.toml"
+hash = "30f1ee40932a5918f97f85ac3c9bd48f2545e3baf0f40fde6a631606aae59b52"
+metafile = true
+
+[[files]]
 file = "mods/easy-elytra-takeoff-fabric.pw.toml"
 hash = "3f76f4b8281f827055cb9a596dcc439d287d2a3b6cb2dcd92d0ec4eb1422e2a0"
 metafile = true
@@ -38,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "e5e9cc3b753510f4243bc0fdef37595dffb283a38f9aa368bbba452aa53b811f"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "f29e7e0c05dfa976e14613ef7d726909ef6e406bb2338ad4f434f1bf83f898d6"
 metafile = true
 
 [[files]]
