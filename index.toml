@@ -56,6 +56,11 @@ hash = "f29e7e0c05dfa976e14613ef7d726909ef6e406bb2338ad4f434f1bf83f898d6"
 metafile = true
 
 [[files]]
+file = "mods/ihgm.pw.toml"
+hash = "03ed73d0d9116be104bf1b395d71aba501351cc022ac9d02a26699665453e054"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "a03e508db721432f32bbc99640ed893fdf74cc894a3c2c3f6019e2f233c8623f"
 metafile = true
