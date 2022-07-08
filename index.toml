@@ -21,6 +21,16 @@ hash = "8710ff01be8545dc45b73520dd6c2ab771237be3be45ae36aa91a68a5b487524"
 metafile = true
 
 [[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "8cfe6fd7b3cb91b32b487a6cd3493a3ec050f239efe327b912248a8192a83495"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "3eb404aa3e5431eb0d5c38c0996b97db033fed570efe4b0a852fa183c56858ce"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "c655002fad2689f9f413134334319d1b03e2499c5b81cb9a28d9e37b7c02d706"
 metafile = true
@@ -126,11 +136,6 @@ hash = "21d29c1ce33327fe0fb186f6f753eec10230db9f3fb101a1ec795eb5177694f4"
 metafile = true
 
 [[files]]
-file = "mods/polymer.pw.toml"
-hash = "0a92f8418d69ec7e2c736d49042747d40595f43fa432b3fd26ea362bed7986e7"
-metafile = true
-
-[[files]]
 file = "mods/random-bone-meal-flowers-fabric.pw.toml"
 hash = "7c6c967656cb9917ebf3c7b774dfd8ed3702d90e041d176b1e15b90501cf2cf0"
 metafile = true
@@ -148,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "db0a65d4138a628f6efac41bd6a2b3684b787e283e952a8554db25a831e139ea"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.pw.toml"
+hash = "c57096e4e3e03f73a4c325ac5c5f2e6a69631121df13be1977cadf3884dcd407"
 metafile = true
 
 [[files]]
