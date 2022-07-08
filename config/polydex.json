@@ -1,0 +1,11 @@
+{
+  "defaultDisplay": "polydex:bossbar",
+  "defaultAlwaysShowDisplay": false,
+  "displayEnabled": true,
+  "displayUpdateRate": 4,
+  "displayCantMine": true,
+  "displayAdditional": true,
+  "displayMiningProgress": true,
+  "displayEntity": true,
+  "displayEntityHealth": true
+}
