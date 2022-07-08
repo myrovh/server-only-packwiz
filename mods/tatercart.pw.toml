@@ -1,0 +1,13 @@
+name = "TaterCart"
+filename = "tatercart-1.0.0-pre.6+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GFWR9kLQ/versions/1.0.0-pre.6/tatercart-1.0.0-pre.6%2B1.19.jar"
+hash-format = "sha1"
+hash = "5e21264f6581606537ca91b410c99dd34d8392ec"
+
+[update]
+[update.modrinth]
+mod-id = "GFWR9kLQ"
+version = "GM5y4SDU"

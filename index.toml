@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "2e8a4921803a54bb9161d1120a5563efa746d3b11b180ff4a6a92e88837c574c"
 metafile = true
@@ -13,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/bluemap.pw.toml"
 hash = "8710ff01be8545dc45b73520dd6c2ab771237be3be45ae36aa91a68a5b487524"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "c655002fad2689f9f413134334319d1b03e2499c5b81cb9a28d9e37b7c02d706"
 metafile = true
 
 [[files]]
@@ -46,6 +56,11 @@ hash = "28260bf593ae9a685769d4691972105c0d14066aa61e0f10a4994b1eb47d2988"
 metafile = true
 
 [[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "bd8e6a3f3ccc098e4fb528d79af0ded2d7998a9eb76c40dbf4bc38491976ed88"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "e5e9cc3b753510f4243bc0fdef37595dffb283a38f9aa368bbba452aa53b811f"
 metafile = true
@@ -53,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "f29e7e0c05dfa976e14613ef7d726909ef6e406bb2338ad4f434f1bf83f898d6"
+metafile = true
+
+[[files]]
+file = "mods/grind-enchantments.pw.toml"
+hash = "e2968e042fff825653f5aafe57c7b1c78b895d13b4fb2d11915ad61c44e7dac1"
 metafile = true
 
 [[files]]
@@ -86,13 +106,38 @@ hash = "dc1f47a526f2264dc215437a81668d54c084d5beaaa6cbf6e284b88a59af88b5"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "b5141c0055ba35ade5a2875969bad890b0c4b80e44d5e22574a122b0b53dbd4e"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "35dfd476a644abffce8b0d1c0cd383a47fc4511bd4c709dbc46edfb74c19c606"
 metafile = true
 
 [[files]]
+file = "mods/polydex.pw.toml"
+hash = "f052ed526e1e172ff89012905a9d77dd5f775cce324281091a155c4c74a68efe"
+metafile = true
+
+[[files]]
+file = "mods/polymer-ports-waystones.pw.toml"
+hash = "21d29c1ce33327fe0fb186f6f753eec10230db9f3fb101a1ec795eb5177694f4"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "0a92f8418d69ec7e2c736d49042747d40595f43fa432b3fd26ea362bed7986e7"
+metafile = true
+
+[[files]]
 file = "mods/random-bone-meal-flowers-fabric.pw.toml"
 hash = "7c6c967656cb9917ebf3c7b774dfd8ed3702d90e041d176b1e15b90501cf2cf0"
+metafile = true
+
+[[files]]
+file = "mods/right-click-harvest.pw.toml"
+hash = "f130a8a58184826e701d8e66d035dd47211f8b273e376b968333bf5afe405ab9"
 metafile = true
 
 [[files]]
@@ -103,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "db0a65d4138a628f6efac41bd6a2b3684b787e283e952a8554db25a831e139ea"
+metafile = true
+
+[[files]]
+file = "mods/tatercart.pw.toml"
+hash = "34858b09c7604d4da8e6feedc2485f0f3eba3499e43b09a71eea33f5f4917c40"
 metafile = true
 
 [[files]]

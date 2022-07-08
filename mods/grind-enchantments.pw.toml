@@ -1,0 +1,13 @@
+name = "Grind Enchantments"
+filename = "grind-enchantments-1.6.4+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WC4UgDcZ/versions/1.6.4/grind-enchantments-1.6.4%2B1.19.jar"
+hash-format = "sha1"
+hash = "2bd9408314557367566274a5556fdd994efd874e"
+
+[update]
+[update.modrinth]
+mod-id = "WC4UgDcZ"
+version = "xP4gJIz9"
