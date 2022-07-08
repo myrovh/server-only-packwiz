@@ -31,6 +31,11 @@ hash = "3eb404aa3e5431eb0d5c38c0996b97db033fed570efe4b0a852fa183c56858ce"
 metafile = true
 
 [[files]]
+file = "mods/cc-polymer.pw.toml"
+hash = "2574cfdc54f115bf2a89746f6108672fe1033287a81dd62d4cd1ea62445e29b3"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "c655002fad2689f9f413134334319d1b03e2499c5b81cb9a28d9e37b7c02d706"
 metafile = true

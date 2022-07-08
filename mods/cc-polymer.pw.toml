@@ -1,0 +1,13 @@
+name = "CC: Restitched with Polymer"
+filename = "cc-restitched-1.101.0-polymerport.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MfXTuV8J/versions/1.101.0-polymerport.1+1.19/cc-restitched-1.101.0-polymerport.1.jar"
+hash-format = "sha1"
+hash = "b6142187c19d0f37d6ab75bd2350595c7723df10"
+
+[update]
+[update.modrinth]
+mod-id = "MfXTuV8J"
+version = "P4n3Uihl"
