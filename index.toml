@@ -194,6 +194,11 @@ hash = "f29e7e0c05dfa976e14613ef7d726909ef6e406bb2338ad4f434f1bf83f898d6"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+metafile = true
+
+[[files]]
 file = "mods/grind-enchantments.pw.toml"
 hash = "e2968e042fff825653f5aafe57c7b1c78b895d13b4fb2d11915ad61c44e7dac1"
 metafile = true
@@ -239,11 +244,6 @@ hash = "35dfd476a644abffce8b0d1c0cd383a47fc4511bd4c709dbc46edfb74c19c606"
 metafile = true
 
 [[files]]
-file = "mods/phosphor.pw.toml"
-hash = "103f9e1bc20ebbef5a496b73572aaa9a24066831fc61fe3a28eedea3602153f9"
-metafile = true
-
-[[files]]
 file = "mods/polydex.pw.toml"
 hash = "f052ed526e1e172ff89012905a9d77dd5f775cce324281091a155c4c74a68efe"
 metafile = true
@@ -265,12 +265,27 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "800dbeeb7a5e8a92cc64118b9c75c33ed9f426d9b83a0e378f564650633f2509"
+hash = "634a3d45978035a6e24b5f4fb091250d0b18e95515a50150cfd8f3f1cf8cb4a2"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "e9ce7950d32441ab9ab5bdddb677a0ee432cafed3a2237390ba04af59b333934"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "6f46cfcca55777b06ce0bf646a815aed4fbc4eb19e21e055a8e6528e41397278"
 metafile = true
 
 [[files]]
 file = "mods/scaffolding-drops-nearby-fabric.pw.toml"
 hash = "5da820cfeadf668348f0031f41b5da3514087dcabff15bbbbbe2733488a6d8c3"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
