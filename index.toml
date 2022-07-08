@@ -17,6 +17,21 @@ file = "config/bluemap/render.conf"
 hash = "06c96b7b3093b1c4fcfa3d1f854ffa485120965bae840f4daef835fca2c68a4b"
 
 [[files]]
+file = "config/bluemap/resourcepacks/cc-polymer.pw.toml"
+hash = "2574cfdc54f115bf2a89746f6108672fe1033287a81dd62d4cd1ea62445e29b3"
+metafile = true
+
+[[files]]
+file = "config/bluemap/resourcepacks/polymer-ports-waystones.pw.toml"
+hash = "21d29c1ce33327fe0fb186f6f753eec10230db9f3fb101a1ec795eb5177694f4"
+metafile = true
+
+[[files]]
+file = "config/bluemap/resourcepacks/universal-graves.pw.toml"
+hash = "04119a476bbae1307d74e02b38e7d381f0224474714c1e951ed851fe20caca58"
+metafile = true
+
+[[files]]
 file = "config/bluemap/webserver.conf"
 hash = "79c4415dbd41bffbc10e34bfa1c804e882df45c61d60fd53577566ab21794061"
 
