@@ -1,6 +1,6 @@
 name = "Myrovh's Server Only Pack"
 author = "myrovh"
-version = "1.2.2"
+version = "1.2.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "114489a6e6a29c6e11abe90a8069bcd3f30ad6b632da1e58c08ef0ca8a691a92"
 
 [versions]
 fabric = "0.14.12"
-minecraft = "1.19.2"
+minecraft = "1.19"
