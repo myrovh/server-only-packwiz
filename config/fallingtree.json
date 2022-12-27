@@ -14,7 +14,7 @@
     "minimumLeavesAroundRequired": 1,
     "includePersistentLeavesInRequiredCount": true,
     "treeBreaking": true,
-    "leavesBreaking": true,
+    "leavesBreaking": false,
     "leavesBreakingForceRadius": 0,
     "allowMixedLogs": false,
     "breakNetherTreeWarts": true,
