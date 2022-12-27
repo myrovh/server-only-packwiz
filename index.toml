@@ -229,11 +229,6 @@ hash = "bafd50c7e62f9cd7aecb913737b7a4af38c6e86ad565e6ee1e8be9c887e606a7"
 metafile = true
 
 [[files]]
-file = "mods/leaves-us-in-peace.pw.toml"
-hash = "4bd38a39bbfedacab77e1e74315e1d897292bd330d7133b23bc5ae6149deff6d"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "cbedab2ca0ec5c65cbcb2e1c51c8cc638109b60d3774c3232534ccadda9b9335"
 metafile = true
