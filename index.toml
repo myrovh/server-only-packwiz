@@ -57,7 +57,7 @@ hash = "baa0c39118304f33b3ab6478d2093f83e3c06382fc18281a295e0632b4a17e90"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "a07b9d599a8d128e8ea715b887f6019a3964a6f0beb99debff830db18b249aa7"
+hash = "a1d20705971918315eff1690060d87f690e31728c673b879bdaed950f1a9f320"
 
 [[files]]
 file = "config/grindenchantments.json"
