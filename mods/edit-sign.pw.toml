@@ -1,13 +1,13 @@
 name = "EditSign (Forge&Fabric)"
-filename = "EditSign-1.19-2.4.1.jar"
+filename = "EditSign-1.19-2.4.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "951d8ccca10e62c8f5ac6d90c77b0cb2961af500"
+hash = "63de6c553dd500722aa319c896508f3f18ece948"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3824876
+file-id = 3878208
 project-id = 344996
